@@ -1,0 +1,7 @@
+#compdef smartcd
+
+_arguments \
+  '--help[Show help]' \
+  '--verbose[Enable verbose output]' \
+  'add:Add directory to usage' \
+  '*:directory:_files'

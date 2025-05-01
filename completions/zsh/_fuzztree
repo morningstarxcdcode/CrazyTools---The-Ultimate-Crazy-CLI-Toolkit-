@@ -1,0 +1,7 @@
+#compdef fuzztree
+
+_arguments \
+  '--help[Show help]' \
+  '--verbose[Enable verbose output]' \
+  '--config=[Path to config file]:file:_files' \
+  '*:path:_files'

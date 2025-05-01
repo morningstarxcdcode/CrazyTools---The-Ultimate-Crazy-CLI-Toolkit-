@@ -1,0 +1,41 @@
+{
+  "name": "crazytools",
+  "version": "1.0.0",
+  "description": "A collection of advanced yet simple-to-use command-line tools.",
+  "main": "index.js",
+  "bin": {
+    "crazygrep": "./bin/crazygrep.js",
+    "fuzztree": "./bin/fuzztree.js",
+    "highlightcat": "./bin/highlightcat.js",
+    "smartcd": "./bin/smartcd.js",
+    "crazy-prompt": "./bin/crazy-prompt.js"
+  },
+  "scripts": {
+    "start": "node bin/crazygrep.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "cli",
+    "tools",
+    "grep",
+    "fuzzy",
+    "finder",
+    "cat",
+    "cd",
+    "productivity"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "commander": "^10.0.0",
+    "fuse.js": "^6.6.2",
+    "inquirer": "^9.0.0",
+    "globby": "^13.1.3",
+    "simple-git": "^3.16.0",
+    "cli-highlight": "^2.1.10"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}

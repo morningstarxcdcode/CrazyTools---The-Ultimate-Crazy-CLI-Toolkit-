@@ -1,0 +1,7 @@
+#compdef highlightcat
+
+_arguments \
+  '--help[Show help]' \
+  '--verbose[Enable verbose output]' \
+  '--config=[Path to config file]:file:_files' \
+  '<file>:file:_files'
