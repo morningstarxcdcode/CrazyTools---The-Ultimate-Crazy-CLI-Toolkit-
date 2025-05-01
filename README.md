@@ -1,4 +1,6 @@
-# 🎉🚀 CrazyTools - The Ultimate Crazy CLI Toolkit 🎨✨
+# 🎉🚀 CrazyTools - The Ultimate Crazy CLI Toolkit 🎨✨  
+
+![CrazyTools Banner](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)  
 
 Welcome to **CrazyTools**, where your terminal gets a glow-up! 🌈💥  
 Say goodbye to boring CLI tools and hello to a **wildly creative**, **colorful**, and **powerful** toolkit that makes your terminal experience as fun as it is productive.  
@@ -13,9 +15,10 @@ Because who said productivity can't be a little wild? 🦄🌟
 
 ---
 
-## 🚀 **Tools Included**
+## 🚀 **Tools Included**  
 
 ### 🔍 **crazygrep**  
+![crazygrep](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)  
 A fast recursive grep tool with:  
 - Fuzzy matching 🌀  
 - Colorized output 🎨  
@@ -24,6 +27,7 @@ A fast recursive grep tool with:
 ---
 
 ### 🌲 **fuzztree**  
+![fuzztree](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)  
 An interactive fuzzy finder for:  
 - Files and directories 📂  
 - File previews and custom actions 🛠️  
@@ -31,6 +35,7 @@ An interactive fuzzy finder for:
 ---
 
 ### 🖍️ **highlightcat**  
+![highlightcat](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)  
 A `cat` clone with:  
 - Syntax highlighting ✨  
 - Git integration 🐙  
@@ -38,6 +43,7 @@ A `cat` clone with:
 ---
 
 ### 📂 **smartcd**  
+![smartcd](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)  
 A smarter `cd` replacement that:  
 - Learns your directory usage 🧠  
 - Offers simple commands for faster navigation 🚀  
@@ -45,13 +51,14 @@ A smarter `cd` replacement that:
 ---
 
 ### 🎭 **crazy-prompt**  
+![crazy-prompt](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)  
 A colorful, animated, and fun shell prompt renderer with:  
 - Plugin support 🔌  
 - Displays user, current directory, git branch, emojis, and more! 🐱‍👤  
 
 ---
 
-## 🎉 **Installation**
+## 🎉 **Installation**  
 
 Clone the repository and install dependencies:  
 
